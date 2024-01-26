@@ -2,7 +2,7 @@ build:
   version: "10.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhoowwwck docker compose APIsk"
+  message: "Hey, welcome to EazyBank accounts related oke "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
